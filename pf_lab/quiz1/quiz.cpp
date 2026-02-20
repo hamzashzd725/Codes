@@ -15,7 +15,7 @@ int main() {
         cin>>arr2[i];
     }
     int k = 0;
-    int merged[4 * size];
+    int merged[2 * size];
     cout<<"Merged: ";
     for (int i = 0; i < size; i+= 2) {
         for (int j = i; j < i + 1; j++) {
