@@ -1,12 +1,8 @@
  # Control Structure & Loops
- print the following pattern 
-
+ print the following pattern
+ <p>
 *
-
 * *
-
 * * *
-
 * * * *
-
-* * * * *
+* * * * *</p>
